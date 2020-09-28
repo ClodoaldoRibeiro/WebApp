@@ -25,17 +25,23 @@ Para configurar o banco de dados você deverá abrir o DMDados e configurar o co
 <img src="https://github.com/ClodoaldoRibeiro/WebApp/blob/master/login.png" alt="Proffy"/>
 <h5 align="center">Tela: login</h5>
 </p>
-
+<br /> 
+<br /> 
+<br /> 
 <p align="center">
 <img src="https://github.com/ClodoaldoRibeiro/WebApp/blob/master/recuperar_senha.png" alt="Proffy"/>
 <h5 align="center">Tela: Recuperar minhas senha </h5>
 </p>
-
+<br /> 
+<br /> 
+<br /> 
 <p align="center">
 <img src="https://github.com/ClodoaldoRibeiro/WebApp/blob/master/Meu%20perfil.png" alt="Proffy"/>
 <h5 align="center">Tela: Meu Perfil </h5>
 </p>
-
+<br /> 
+<br /> 
+<br /> 
 <p align="center">
 <img src="https://github.com/ClodoaldoRibeiro/WebApp/blob/master/Dashboard-Cadastros.png" alt="Proffy"/>
 <h5 align="center">Tela: Tela de cadastro </h5>
