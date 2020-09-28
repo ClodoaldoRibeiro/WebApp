@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/13 10:26:29.000.639,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/14 23:04:03.000.323,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/19 10:27:02.000.795,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/03 08:24:09.000.625,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/03 08:29:42.000.122,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/03 08:33:23.000.426,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\AppletModule1.pas</Transaction>
+    <Transaction>2020/01/21 23:41:27.000.896,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/24 19:18:12.000.190,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/25 11:49:22.000.465,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/25 11:51:37.000.439,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/03 14:45:46.000.050,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/03 14:46:43.000.281,C:\Users\Clodoaldo Ribeiro\Desktop\WebApp\unMenu.pas=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/03 14:46:43.000.281,C:\Users\Clodoaldo Ribeiro\Desktop\WebApp\unMenu.dfm=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/05/03 14:47:40.000.648,=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/03 14:49:06.000.317,C:\Users\Clodoaldo Ribeiro\Desktop\WebApp\unDMDados.dfm=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/05/03 14:49:06.000.317,C:\Users\Clodoaldo Ribeiro\Desktop\WebApp\unDMDados.pas=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/03 14:57:02.000.108,=C:\Users\Clodoaldo Ribeiro\Desktop\WebApp\unDMCadastro.pas</Transaction>
+    <Transaction>2020/05/03 15:32:50.000.261,C:\Users\Clodoaldo Ribeiro\Desktop\WebApp\WebApp.dproj=C:\Users\Clodoaldo Ribeiro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/05/06 22:50:40.000.346,=C:\Users\Clodoaldo Ribeiro\Desktop\WebApp\unCidade.pas</Transaction>
+    <Transaction>2020/05/08 18:16:22.000.699,=C:\Users\Clodoaldo Ribeiro\Desktop\WebApp\Unit1.pas</Transaction>
+    <Transaction>2020/05/08 18:18:40.000.669,=C:\Users\Clodoaldo Ribeiro\Desktop\WebApp\unUser.pas</Transaction>
+    <Transaction>2020/05/08 18:28:16.000.449,=C:\Users\Clodoaldo Ribeiro\Desktop\WebApp\unSobre.pas</Transaction>
+    <Transaction>2020/05/09 14:38:37.000.188,=C:\Users\Clodoaldo Ribeiro\Documents\DADOS\CTI\Projetos\WebApp\unFullScreen.pas</Transaction>
+    <Transaction>2020/05/09 14:42:08.000.861,C:\Users\Clodoaldo Ribeiro\Documents\DADOS\CTI\Projetos\WebApp\unFullScreen.pas=C:\Users\Clodoaldo Ribeiro\Documents\DADOS\CTI\Projetos\WebApp\unLogin.pas</Transaction>
+    <Transaction>2020/05/09 14:42:08.000.861,C:\Users\Clodoaldo Ribeiro\Documents\DADOS\CTI\Projetos\WebApp\unFullScreen.dfm=C:\Users\Clodoaldo Ribeiro\Documents\DADOS\CTI\Projetos\WebApp\unLogin.dfm</Transaction>
+    <Transaction>2020/05/09 14:44:36.000.980,=C:\Users\Clodoaldo Ribeiro\Documents\DADOS\CTI\Projetos\WebApp\unFullScreen.pas</Transaction>
+    <Transaction>2020/05/09 14:45:58.000.161,C:\Users\Clodoaldo Ribeiro\Documents\DADOS\CTI\Projetos\WebApp\unLogin.pas=</Transaction>
+    <Transaction>2020/05/09 14:47:52.000.392,=C:\Users\Clodoaldo Ribeiro\Documents\DADOS\CTI\Projetos\WebApp\unLogin.pas</Transaction>
+  </Transactions>
+</BorlandProject>
