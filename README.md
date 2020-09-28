@@ -14,6 +14,8 @@ As tecnologias usadas até o momento são:
 * [Delphi Community Edition ](https://www.embarcadero.com/br/products/delphi/starter) - Ambiente de programação
 * [MySQL Community Downloads](https://dev.mysql.com/downloads/mysql/) - Gerenciador de Banco de Dados
 * [Firedac](https://www.embarcadero.com/br/products/rad-studio/firedac) - Tecnologia de acesso a Dados (Pré instalado no Delphi)
+* [Icons](https://icons8.com/) - Download de icones
+
 
 ## Instruções de uso
 Para configurar o banco de dados você deverá abrir o DMDados e configurar o componente FDConnection com as propriedades de sua conexão, local ou em rede.
