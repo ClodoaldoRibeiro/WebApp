@@ -6,7 +6,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-O WebAPP é um dashboard desenvolvido no Delphi 10.3 Rio com sistema de Banco de Dados MySQL. O propósito é fornecer para quem quiser o usar em seus projetos Delphi.
+O WebAPP é um dashboard desenvolvido no Delphi 10.3 Rio com sistema de Banco de Dados MySQL. O propósito é fornecer para quem quiser usar em seus projetos Delphi.
 
 ## Tecnologias
 As tecnologias usadas até o momento são:
@@ -36,7 +36,7 @@ Para configurar o banco de dados você deverá abrir o DMDados e configurar o co
 
 <p align="center">
 <img src="https://github.com/ClodoaldoRibeiro/WebApp/blob/master/Dashboard-Cadastros.png" alt="Proffy"/>
-<h5 align="center">Tela: Tela de cadastros </h5>
+<h5 align="center">Tela: Tela de cadastro </h5>
 </p>
 
 
